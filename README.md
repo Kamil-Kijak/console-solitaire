@@ -11,7 +11,11 @@ Your score after win have been saved to application folder as leaderboard, which
 ## Run project:  
 You must download and install 8 .NET version to run this project
 Clone this repository  
-Enter to the game folder and write ***dotnet run*** command to run 
+Enter to the game folder and type:
+```
+dotnet run
+```
+to run project  
 Recommended to resize console window to correct size because game elements can display wrong (after resizing where game is running,  just enter a key to refresh all components)  
 ## Controls:  
 Navigate by using ***WSAD*** keys and ***ENTER*** to action  
