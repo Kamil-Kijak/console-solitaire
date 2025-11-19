@@ -27,4 +27,4 @@ dotnet run
 - When you want to pick multiple cards, you must click on column and using ```W``` and ```S``` choose the amount of cards
 ## 👦 Authors: 
 - Kamil Kijak ```(solo developer)```
-## Project protected using MIT licence
+## Project protected using MIT license
